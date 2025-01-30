@@ -1,6 +1,6 @@
 # Web: X-Marks-The-Flag
 
-**Author**: 4-krishna (https://github.com/4-krishna)
+**Author**: [4-krishna](https://github.com/4-krishna)
 **Points**: 100
 **Hint(s)**: `Headers` (0 pts)
 **Flag**: `xploit{31337_H34d3r_h4ck3r_0x6fa2}`

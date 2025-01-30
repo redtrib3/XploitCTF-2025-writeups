@@ -1,6 +1,6 @@
 # Web: X-Marks-The-Flag
 
-**Author**: redtrib3 (https://github.com/redtrib3)
+**Author**: [redtrib3](https://github.com/redtrib3)
 **Points**: 150
 **Hint(s)**: None
 **Flag**: `xploit{auth3nticate_auth0rize_aud1t}`

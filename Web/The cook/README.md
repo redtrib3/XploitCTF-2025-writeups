@@ -1,6 +1,6 @@
 # Web: X-Marks-The-Flag
 
-**Author**: redtrib3 (https://github.com/redtrib3)
+**Author**: [redtrib3](https://github.com/redtrib3)
 **Points**: 500
 **Hint(s)**: `Headers` (0 pts)
 **Flag**: `xploit{582-036-628}`
