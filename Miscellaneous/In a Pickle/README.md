@@ -1,10 +1,10 @@
 # Misc: In a pickle
 
-**Author**: [redtrib3](https://github.com/redtrib3)
-**Points**: 300
-**Hint 1**: pickletools will help identifying whats wrong. (0 pts)
-**Hint 2**: Override the annoying function, the right way. (25 pts)
-**Flag**: `xploit{a_sn4ke_1n_a_p1ckle_4nd_a_10ng_f1ag_t0_mak3_1t_h4rd_4u}`
+**Author**: [redtrib3](https://github.com/redtrib3)<br>
+**Points**: 300<br>
+**Hint 1**: pickletools will help identifying whats wrong. (0 pts)<br>
+**Hint 2**: Override the annoying function, the right way. (25 pts)<br>
+**Flag**: `xploit{a_sn4ke_1n_a_p1ckle_4nd_a_10ng_f1ag_t0_mak3_1t_h4rd_4u}`<br>
 
 **Challenge description:**
 ```

@@ -1,9 +1,9 @@
 # Misc: We are hiring
 
-**Author**: [Ujjwalbeast](https://github.com/Ujjwalbeast)
-**Points**: 200
-**Hint(s)**: None
-**Flag**: `xploit{th3_ch1ef_f0rm_1nspect0r}`
+**Author**: [Ujjwalbeast](https://github.com/Ujjwalbeast)<br>
+**Points**: 200<br>
+**Hint(s)**: None<br>
+**Flag**: `xploit{th3_ch1ef_f0rm_1nspect0r}`<br>
 
 **Challenge description:**
 ```
@@ -14,5 +14,5 @@ https://forms.gle/VkJWgcBbry3yCYC3A
 
 ## Solve
 
-We are provided a google forms link with three questions. the form doesn't let us submit it without the second question which is 'what is the flag?'.
+We are provided with a google forms link with three questions. the form doesn't let us submit it without the second question which is 'what is the flag?'.
 Check the page source using `CTRL + U` shortcut. and search for the keyword `xploit{` using `CTRL + F`. You'll get the flag!

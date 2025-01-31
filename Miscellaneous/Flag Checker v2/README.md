@@ -1,9 +1,9 @@
 # Misc: Flag Checker v2 
 
-**Author**: [redtrib3](https://github.com/redtrib3)
-**Points**: 300
-**Hint(s)**: https://ir0nstone.gitbook.io/notes/binexp/stack/return-oriented-programming/stack-alignment (50 pts)
-**Flag**: `xploit{c0ntr0l_is_n0t_an_i11usion}`
+**Author**: [redtrib3](https://github.com/redtrib3)<br>
+**Points**: 300<br>
+**Hint(s)**: https://ir0nstone.gitbook.io/notes/binexp/stack/return-oriented-programming/stack-alignment (50 pts)<br>
+**Flag**: `xploit{c0ntr0l_is_n0t_an_i11usion}`<br>
 
 **Challenge description:**
 ```

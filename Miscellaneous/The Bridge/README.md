@@ -1,9 +1,9 @@
 # Misc: The Bridge
 
-**Author**: [redtrib3](https://github.com/redtrib3)
-**Points**: 150
-**Hint(s)**: Murder of God's Banker happened here. (20 pts)
-**Flag**: `xploit{blackfriars_bridge_1869}`
+**Author**: [redtrib3](https://github.com/redtrib3)<br>
+**Points**: 150<br>
+**Hint(s)**: Murder of God's Banker happened here. (20 pts)<br>
+**Flag**: `xploit{blackfriars_bridge_1869}`<br>
 
 **Challenge description:**
 ```

@@ -1,0 +1,9 @@
+Case-No: 21-CR-4321-CYBER
+Convict: Samy Krause (AKA Krauzpwn, kr4zypyth0n)
+Date: December 20, 2014
+
+A ZIP file containing the convict's unix home directory has been attached for investigation.
+Please Ensure forensic integrity during analysis, and report any discrepancies immediately.
+
+All the best,
+Detective RC.

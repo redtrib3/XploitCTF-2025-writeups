@@ -1,9 +1,9 @@
 # Misc: Hidden Meme
 
-**Author**: [redtrib3](https://github.com/redtrib3)
-**Points**: 100
-**Hint(s)**: None
-**Flag**: `xploit{1n_pl41n_s1ght_0x6d7}`
+**Author**: [redtrib3](https://github.com/redtrib3)<br>
+**Points**: 100<br>
+**Hint(s)**: None<br>
+**Flag**: `xploit{1n_pl41n_s1ght_0x6d7}`<br>
 
 **Challenge description:**
 ```

@@ -1,0 +1,54 @@
+192.168.119.130 - - [28/Dec/2024:13:01:45 +0000] "USER sasha2517ok" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:01:47 +0000] "PASS emili" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:01:50 +0000] "USER sasha2517ok" 530 Login incorrect.
+192.168.1.23 - - [28/Dec/2024:13:03:35 +0000] "USER admin" 530 Login successful.
+192.168.1.23 - - [28/Dec/2024:13:03:37 +0000] "PASS 123455556" 230 Login successful.
+192.168.119.130 - - [28/Dec/2024:13:01:52 +0000] "PASS nathnoch" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:01:55 +0000] "USER sasha2517ok" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:01:57 +0000] "PASS jym1303" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:00 +0000] "USER sasha2517ok" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:02 +0000] "PASS laxchick19" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:05 +0000] "USER sasha2517ok" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:07 +0000] "PASS huadalberto" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:10 +0000] "USER natalika" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:12 +0000] "PASS emili" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:15 +0000] "USER natalika" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:17 +0000] "PASS nathnoch" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:20 +0000] "USER natalika" 530 Login incorrect.
+10.21.0.2 - - [28/Dec/2024:13:04:00 +0000] "USER duhprinc3" 530 Login successful.
+10.21.0.2 - - [28/Dec/2024:13:04:02 +0000] "PASS pass123" 230 Login successful.
+192.168.119.130 - - [28/Dec/2024:13:02:22 +0000] "PASS jym1303" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:25 +0000] "USER natalika" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:27 +0000] "PASS laxchick19" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:30 +0000] "USER natalika" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:32 +0000] "PASS huadalberto" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:35 +0000] "USER ej57ta" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:37 +0000] "PASS emili" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:40 +0000] "USER ej57ta" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:42 +0000] "PASS nathnoch" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:45 +0000] "USER ej57ta" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:47 +0000] "PASS jym1303" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:50 +0000] "USER ej57ta" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:52 +0000] "PASS laxchick19" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:55 +0000] "USER ej57ta" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:02:57 +0000] "PASS huadalberto" 530 Login incorrect.
+192.168.119.130 - - [28/Dec/2024:13:03:00 +0000] "USER ladybug" 230 Login successful.
+192.168.119.130 - - [28/Dec/2024:13:03:03 +0000] "PASS huadalberto" 230 Login successful.
+192.168.119.130 - - [28/Dec/2024:13:03:10 +0000] "CWD /ftp_files" 250 Directory successfully changed.
+192.168.119.130 - - [28/Dec/2024:13:03:12 +0000] "LIST" 226 Directory send OK.
+192.168.119.130 - - [28/Dec/2024:13:03:15 +0000] "RETR README.md" 150 Opening data connection for README.md (259 bytes).
+192.168.119.130 - - [28/Dec/2024:13:03:17 +0000] "RETR README.md" 226 Transfer complete.
+192.168.119.130 - - [28/Dec/2024:13:03:20 +0000] "CWD /ftp_files/../.." 550 Failed to change directory.
+192.168.119.130 - - [28/Dec/2024:13:03:22 +0000] "QUIT" 221 Goodbye.
+192.168.1.96 - - [28/Dec/2024:13:03:30 +0000] "USER admin" 530 Login incorrect.
+192.168.1.96 - - [28/Dec/2024:13:03:32 +0000] "PASS 1234" 530 Login incorrect.
+192.168.1.23 - - [28/Dec/2024:13:03:40 +0000] "CWD /" 250 Directory successfully changed.
+10.21.0.2 - - [28/Dec/2024:13:03:42 +0000] "LIST" 226 Directory send OK.
+10.0.0.2 - - [28/Dec/2024:13:04:05 +0000] "CWD /ftp_files" 250 Directory successfully changed.
+10.0.0.2 - - [28/Dec/2024:13:04:08 +0000] "LIST" 226 Directory send OK.
+192.168.1.23 - - [28/Dec/2024:13:03:40 +0000] "CD /ftp_files" 250 Directory successfully changed.
+10.21.0.2 - - [28/Dec/2024:13:04:10 +0000] "RETR README.md" 150 Opening data connection for user_notes.txt (1024 bytes).
+10.21.0.2 - - [28/Dec/2024:13:04:12 +0000] "RETR README.md" 226 Transfer complete.
+192.168.1.23 - - [28/Dec/2024:13:03:20 +0000] "CWD /ftp_files/../.." 250 Directory successfully changed.
+192.168.119.130 - - [28/Dec/2024:14:32:00 +0000] "USER ladybug" 230 Login successful.
+192.168.119.130 - - [28/Dec/2024:14:32:03 +0000] "PASS huadalberto" 230 Login successful.
