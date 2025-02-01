@@ -1,9 +1,9 @@
-# Web: X-Marks-The-Flag
+# Web: NoteWorthy
 
-**Author**: [redtrib3](https://github.com/redtrib3)
-**Points**: 150
-**Hint(s)**: None
-**Flag**: `xploit{auth3nticate_auth0rize_aud1t}`
+**Author**: [redtrib3](https://github.com/redtrib3)<br>
+**Points**: 150<br>
+**Hint(s)**: None<br>
+**Flag**: `xploit{auth3nticate_auth0rize_aud1t}`<br>
 
 **Challenge description:**
 ```

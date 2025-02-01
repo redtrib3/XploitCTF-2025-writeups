@@ -1,9 +1,9 @@
-# Web: X-Marks-The-Flag
+# Web: The cook
 
-**Author**: [redtrib3](https://github.com/redtrib3)
-**Points**: 500
-**Hint(s)**: `Headers` (0 pts)
-**Flag**: `xploit{582-036-628}`
+**Author**: [redtrib3](https://github.com/redtrib3)<br>
+**Points**: 500<br>
+**Hint(s)**: `Headers` (0 pts)<br>
+**Flag**: `xploit{582-036-628}`<br>
 
 **Challenge description:**
 ```
